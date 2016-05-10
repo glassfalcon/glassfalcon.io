@@ -1,0 +1,124 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100%;
+}
+
+body {
+  min-height: 100%;
+  background-color: black;
+  background-repeat: no-repeat;
+}
+
+a {
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: underline;
+  transition: color 125ms ease-in;
+}
+
+a:hover {
+  color: #FFF;
+}
+
+._25LkulqlQyle17bOFGr7TP {
+  position: relative;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 850px;
+}
+
+._25LkulqlQyle17bOFGr7TP ._3GBmif3zhlrwlX_4vRhImA {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  text-align: center;
+  font-size: 10px;
+  color: white;
+  opacity: 0.4;
+}
+
+._25LkulqlQyle17bOFGr7TP ._3GBmif3zhlrwlX_4vRhImA::before {
+  content: "\A9   ";
+}
+._2Al4JVH13EkL96WL4m1dO {
+  display: inline-block;
+  padding: 0.1875em 0.625em;
+  font-weight: 100;
+  background-color: rgba(8, 22, 30, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.42);
+  color: #E0F3FF;
+  font-size: 16px;
+  line-height: 1.75;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  transition: background-color 125ms ease-in;
+  cursor: pointer;
+}
+._2Al4JVH13EkL96WL4m1dO:hover {
+  background-color: #293A6B;
+}
+._2Al4JVH13EkL96WL4m1dO > .fa:first-child:not(:last-child) {
+  margin-right: 0.625em;
+}
+._2Al4JVH13EkL96WL4m1dO > .fa:last-child:not(:first-child) {
+  margin-left: 0.625em;
+}
+._2WGwGoRoVuytEoR6bMEX1Z {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  height: 100vh;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+._2WGwGoRoVuytEoR6bMEX1Z h1 {
+  color: white;
+}
+._2WGwGoRoVuytEoR6bMEX1Z p {
+  font-weight: 300;
+}
+._2ZE-UDiV4Eps35K5D7HEot {
+  text-align: center;
+  font-size: 56px;
+  color: white;
+}
+._2ZE-UDiV4Eps35K5D7HEot ._2iEbCXHA7lC3hqIVX9jbb_ {
+  font-weight: 400;
+}
+._2ZE-UDiV4Eps35K5D7HEot ._2cGtux2lzIr4G4t8A2iw46 {
+  font-weight: 300;
+}
+._2ZE-UDiV4Eps35K5D7HEot ._38tkDOQzuEES_sy-ktLf_r {
+  font-size: 40px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+._1ucTAqiqhlnN20HUiCRa0- {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  min-height: 100vh;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  padding: 40px 20px;
+  color: white;
+}
