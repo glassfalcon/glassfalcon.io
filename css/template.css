@@ -1,0 +1,45 @@
+:global * {
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100%;
+}
+
+body {
+  min-height: 100%;
+  background-color: black;
+  background-repeat: no-repeat;
+}
+
+a {
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: underline;
+  transition: color 125ms ease-in;
+
+  &:hover {
+    color: #FFF;
+  }
+}
+
+.wrapper {
+  position: relative;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 850px;
+
+  & .copyright {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    font-size: 10px;
+    color: white;
+    opacity: 0.4;
+
+    &::before {
+      content: "\00a9 ";
+    }
+  }
+}
