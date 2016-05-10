@@ -1,0 +1,19 @@
+.logo {
+  text-align: center;
+  font-size: 56px;
+  color: white;
+
+  .glass {
+    font-weight: 400;
+  }
+
+  .falcon {
+    font-weight: 300;
+  }
+
+  .io {
+    font-size: 40px;
+    font-weight: 300;
+    text-transform: uppercase;
+  }
+}
