@@ -8,7 +8,7 @@ html {
 
 body {
   min-height: 100%;
-  background-color: black;
+  background-color: #071D25;
   background-repeat: no-repeat;
 }
 
@@ -92,17 +92,14 @@ a:hover {
   text-align: center;
   font-size: 56px;
   color: white;
-}
-._2ZE-UDiV4Eps35K5D7HEot ._2iEbCXHA7lC3hqIVX9jbb_ {
-  font-weight: 400;
+  font-weight: 300;
 }
 ._2ZE-UDiV4Eps35K5D7HEot ._2cGtux2lzIr4G4t8A2iw46 {
-  font-weight: 300;
-}
-._2ZE-UDiV4Eps35K5D7HEot ._38tkDOQzuEES_sy-ktLf_r {
-  font-size: 40px;
-  font-weight: 300;
-  text-transform: uppercase;
+  position: relative;
+  margin: 0 auto 15px;
+  height: 195px;
+  width: 135px;
+  background-image: url(49e4e68562e15ab9e41bcc379e936a71.svg);
 }
 ._1ucTAqiqhlnN20HUiCRa0- {
   display: -webkit-flex;
