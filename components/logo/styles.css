@@ -2,18 +2,13 @@
   text-align: center;
   font-size: 56px;
   color: white;
-
-  .glass {
-    font-weight: 400;
-  }
+  font-weight: 300;
 
   .falcon {
-    font-weight: 300;
-  }
-
-  .io {
-    font-size: 40px;
-    font-weight: 300;
-    text-transform: uppercase;
+    position: relative;
+    margin: 0 auto 15px;
+    height: 195px;
+    width: 135px;
+    background-image: url('./logo.svg');
   }
 }
